@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nixinumbra.thezombietower",
+      "sha256_cert_fingerprints": [
+        "5A:90:66:31:DE:90:92:D8:A7:AB:BF:85:E6:0B:70:4A:C1:78:30:23:FD:6E:14:14:1F:FA:80:0B:AC:CF:91:A0"
+      ]
+    }
+  }
+]
